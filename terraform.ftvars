@@ -1,0 +1,3 @@
+ssh_key_name = "dev_key"
+
+private_key_path = "dev_key.pem"

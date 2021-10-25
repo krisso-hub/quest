@@ -1,0 +1,3 @@
+##This files will use default vpc in aws
+it will create ubuntu instance using ami image with node.js and docker pre-installed
+It will create classic aws classic load balance 
